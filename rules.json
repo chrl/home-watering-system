@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Humidity > 80",
+    "sensorName": "humidity",
+    "treshold": 80,
+    "triggered": false,
+    "actuator": "pump",
+    "seconds": 2,
+    "stopActuator": 0
+  },
+  {
+    "name": "Temperature > 19",
+    "sensorName": "temperature",
+    "treshold": 19,
+    "triggered": false,
+    "actuator": "",
+    "seconds": 0,
+    "stopActuator": 0
+  }
+]
